@@ -11,7 +11,7 @@ Guru:
 
 
 Nam: 
-    Google Doc Project Documentation, Debugging, 
+    Google Doc Project Documentation, Debugging, Print Statement/Operators
 
 
 
