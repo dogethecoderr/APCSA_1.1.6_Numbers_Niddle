@@ -4,7 +4,7 @@ public class NumberRiddles {
     is displayed in front of the user to prove that
     it works. */
     public static void main (String[]args){
-        startingNumber = 10; // starting number you choose
+        double startingNumber = 10; // starting number you choose
         int test1 = 5; // positive integer
         int test2 = -5; // negative integer
         int test3 = 0;  // zero
@@ -16,11 +16,11 @@ public class NumberRiddles {
         // Algorithms to process the numbers
         System.out.print("Starting Number: " + startingNumber);
         process0 = process0 * 2; // double the starting number
-        System.out.println("Double Starting Number: " + process1);
+        System.out.println("Double Starting Number: " + process0);
         process0 += 6;  // add 6 to the result
-        System.out.println("Add 6: " + process1);
+        System.out.println("Add 6: " + process0);
         process0 /= 2; // divide the result by 2
-        System.out.println("Divide by 2: " + process1);
+        System.out.println("Divide by 2: " + process0);
         System.out.println("Subtract number you started with: " +  (process0 - startingNumber) + "\n");
 
         
