@@ -35,6 +35,6 @@ Akhil:
 
 
 -------------
-<img width="276" height="122" alt="image" src="https://github.com/user-attachments/assets/02497c35-6daa-4996-be81-1fad3aa72c3e" />
+<img width="317" height="122" alt="image" src="https://github.com/user-attachments/assets/592d54fc-6020-4ba5-8033-41277cce4517" />
 
 <img width="289" height="747" alt="image" src="https://github.com/user-attachments/assets/d01493ce-5e50-4302-860c-222473701206" />
