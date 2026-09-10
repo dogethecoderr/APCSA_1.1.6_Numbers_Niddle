@@ -8,6 +8,17 @@ public class NumberRiddles {
         double test5 = 5.0;  //Positive double
         double test6 = -5.5; //Negative double   
 
+        double process0 = startingNumber;
+        // Algorithms to process the numbers
+        System.out.println("Starting Number: " + startingNumber);
+        process0 = process0 * 2; // double the starting number
+        System.out.println("Double Starting Number: " + process1);
+        process0 += 6;  // add 6 to the result
+        System.out.println("Add 6: " + process1);
+        process0 /= 2; // divide the result by 2
+        System.out.println("Divide by 2: " + process1);
+        System.out.println("Subtract number you started with: " +  (process0 - startingNumber) + "\n");
+
         
         double process1 = test1;
         // Algorithms to process the numbers
