@@ -2,7 +2,7 @@
 Akhil, Guru, Nam, Aedan
 Individual contributions hidden due to VSCODE LIVESHARE 
 
-Google Doc Project Documentation: https://docs.google.com/document/d/1k8A6JxpeKoWHbNAokA-YVmHLiWQX56a1etHzfM9nu_M/edit?tab=t.9ua1p8gm80bz
+[Google Doc Project Documentation](https://docs.google.com/document/d/1k8A6JxpeKoWHbNAokA-YVmHLiWQX56a1etHzfM9nu_M/edit?tab=t.9ua1p8gm80bz)
 
 
 Contributions
