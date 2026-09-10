@@ -1,6 +1,6 @@
 public class NumberRiddles {
     public static void main (String[]args){
-        // starting number you choose
+        startingNumber = 10;// starting number you choose
         int test1 = 5; // positive integer
         int test2 = -5; // negative integer
         int test3 = 0;  // zero
