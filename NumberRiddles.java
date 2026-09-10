@@ -17,7 +17,7 @@ public class NumberRiddles {
         System.out.println("Add 6: " + process1);
         process1 /= 2; // divide the result by 2
         System.out.println("Divide by 2: " + process1);
-        System.out.println("Subtract number you started with: " +  (process1 - test1));
+        System.out.println("Subtract number you started with: " +  (process1 - test1) + "\n");
 
         double process2 = test2;
         // Algorithms to process the numbers
@@ -27,7 +27,7 @@ public class NumberRiddles {
         System.out.println("Add 6: " + process2);
         process2 /= 2; // divide the result by 2
         System.out.println("Divide by 2: " + process2);
-        System.out.println("Subtract number you started with: " +  (process2 - test2)); // subtract the starting number
+        System.out.println("Subtract number you started with: " +  (process2 - test2) + "\n"); // subtract the starting number
 
         double process3 = test3;
         // Algorithms to process the numbers
@@ -37,7 +37,7 @@ public class NumberRiddles {
         System.out.println("Add 6: " + process3);
         process3 /= 2; // divide the result by 2
         System.out.println("Divide by 2: " + process3);
-        System.out.println("Subtract number you started with: " +  (process3 - test3));
+        System.out.println("Subtract number you started with: " +  (process3 - test3) + "\n");
 
         double process4 = test4;
         // Algorithms to process the numbers
@@ -47,7 +47,7 @@ public class NumberRiddles {
         System.out.println("Add 6: " + process4);
         process4 /= 2; // divide the result by 2
         System.out.println("Divide by 2: " + process4);
-        System.out.println("Subtract number you started with: " +  (process4 - test4));
+        System.out.println("Subtract number you started with: " +  (process4 - test4) + "\n");
 
         double process5 = test5;
         // Algorithms to process the numbers
@@ -57,7 +57,7 @@ public class NumberRiddles {
         System.out.println("Add 6: " + process5);
         process5 /= 2; // divide the result by 2
         System.out.println("Divide by 2: " + process5);
-        System.out.println("Subtract number you started with: " +  (process5 - test5));
+        System.out.println("Subtract number you started with: " +  (process5 - test5) + "\n");
 
         double process6 = test6;
         // Algorithms to process the numbers
@@ -67,7 +67,7 @@ public class NumberRiddles {
         System.out.println("Add 6: " + process6);
         process6 /= 2; // divide the result by 2
         System.out.println("Divide by 2: " + process6);
-        System.out.println("Subtract number you started with: " +  (process6 - test6));
+        System.out.println("Subtract number you started with: " +  (process6 - test6) + "\n");
         
     }
 }
