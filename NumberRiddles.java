@@ -1,4 +1,8 @@
 public class NumberRiddles {
+    /* This program performs the math riddle algorithm 
+    on any given number to return 3. Each step
+    is displayed in front of the user to prove that
+    it works. */
     public static void main (String[]args){
         startingNumber = 10; // starting number you choose
         int test1 = 5; // positive integer
