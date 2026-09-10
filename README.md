@@ -1,4 +1,4 @@
-# APCSA_1.1.6_Numbers_Niddle
+# APCSA_1.1.6_Numbers_Riddle
 Akhil, Guru, Nam, Aedan
 Individual contributions hidden due to VSCODE LIVESHARE 
 
