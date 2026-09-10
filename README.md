@@ -14,7 +14,7 @@ Guru:
 
 
 Nam: 
-    Google Doc Project Documentation, Debugging, Print Statement/Operators
+    Google Doc Project Documentation, Debugging (adding multiline comments, output inconsistensies, symbol error), Print Statement/Operators
     Wrote the cases for One, Positive Double, Negative Double
 
 
