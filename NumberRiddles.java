@@ -14,7 +14,7 @@ public class NumberRiddles {
 
         double process0 = startingNumber;
         // Algorithms to process the numbers
-        System.out.println("Starting Number: " + startingNumber);
+        System.out.print("Starting Number: " + startingNumber);
         process0 = process0 * 2; // double the starting number
         System.out.println("Double Starting Number: " + process1);
         process0 += 6;  // add 6 to the result
